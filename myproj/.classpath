@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/byte-buddy-1.8.3.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/client-combined-3.12.0.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/client-combined-3.12.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/commons-collections4-4.2.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/cucumber-core-1.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/cucumber-core-2.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/cucumber-java-1.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/cucumber-java-2.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/cucumber-junit-1.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/cucumber-jvm-deps-1.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/cucumber-reporting-3.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/extentreports-3.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/gherkin-5.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/groovy-2.4.12.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/groovy-json-2.4.12.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/groovy-xml-2.4.12.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/guava-23.6-jre.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/java-client-4.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/java-client-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/java-client-6.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/jaxb-api-2.2.12.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/log4j.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/mysql-connector.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/okhttp-3.9.1.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/okio-1.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/poi-4.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/poi-ooxml-4.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/poi-ooxml-schemas-4.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/rest-assured-3.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/selenium-server-standalone-3.12.0.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/sqljdbc4-2.0.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/testng-6.9.10.jar"/>
+	<classpathentry kind="lib" path="D:/sep_wk2018/Lib/xmlbeans-3.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
