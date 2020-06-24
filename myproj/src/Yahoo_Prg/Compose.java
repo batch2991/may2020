@@ -20,6 +20,7 @@ public class Compose extends MainClass
  {
 	 System.out.println("hello");
 	 System.out.println("hello2");
+	 System.out.println("bye");
 	 Thread.sleep(5000);
 	 driver.findElement(By.xpath(ComposeP.xcompose)).click();
 	 Thread.sleep(5000);
