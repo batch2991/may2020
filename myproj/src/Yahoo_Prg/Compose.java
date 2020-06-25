@@ -21,7 +21,11 @@ public class Compose extends MainClass
 	 System.out.println("hello");
 	 System.out.println("hello2");
 	 System.out.println("bye");
+<<<<<<< HEAD
      System.out.println("this is updated");
+=======
+	 System.out.println("this is updated");
+>>>>>>> refs/heads/b1
 	 Thread.sleep(5000);
 	 driver.findElement(By.xpath(ComposeP.xcompose)).click();
 	 Thread.sleep(5000);
